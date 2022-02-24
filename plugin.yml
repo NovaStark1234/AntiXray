@@ -1,0 +1,8 @@
+main: Nova\AntiXray\AntiXray
+name: "AntiXray"
+authors: ["wode490390", "Wode", "Woder", "Wodor", "NovaStark145"]
+description: "Anti X-Ray cheat plugin for Nukkit, NovaStark1245 rewrite to PHP"
+website: "http://wode490390.cn/"
+version: "1.0.0"
+api: ["3.0.0"]
+load: POSTWORLD
