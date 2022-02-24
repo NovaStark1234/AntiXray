@@ -165,7 +165,7 @@ class AntiXray extends PluginBase implements Listener {
         }
     }
 
-    @EventHandler
+    //@EventHandler
     //TODO: Use BlockBreakEvent instead of BlockUpdateEvent
     public function onBlockUpdate(BlockUpdateEvent $event) :void {
         $position = $event->getBlock()->getPosition();
